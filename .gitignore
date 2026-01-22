@@ -1,0 +1,90 @@
+# =========================
+# Python virtual environments
+# =========================
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# Python bytecode & caches
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Build / distribution
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Test / coverage
+# =========================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs & runtime files
+# =========================
+*.log
+*.pid
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# IDE / editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak
+*.orig
+
+# =========================
+# Data artifacts (optional – uncomment if needed)
+# =========================
+# data/
+# output/
+# *.csv
+# *.parquet
+
+# =========================
+# Model artifacts (optional)
+# =========================
+# *.pt
+# *.pth
+# *.onnx
+
+# =========================
+# Large Files not to be commited
+# =========================
+*.pdf
+*.png

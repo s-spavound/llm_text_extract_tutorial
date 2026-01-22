@@ -4,3 +4,5 @@ This repository contains code to accompany the paper "Tutorial: Extracting Unstr
 
 ## Prerequisites
 The prerequisite python packages are included in requirements.txt.
+
+The easiest way to ensure you have these installed is to create a virtual environment and install all from requirements.txt
