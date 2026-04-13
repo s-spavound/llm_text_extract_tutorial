@@ -87,7 +87,6 @@ Thumbs.db
 # Large Files not to be commited
 # =========================
 *.pdf
-*.png
 
 # =========================
 # Tutorial specific ignores
