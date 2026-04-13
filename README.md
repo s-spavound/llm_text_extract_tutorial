@@ -1,6 +1,6 @@
-# LLM Text Extraction Tutorial
+# Tutorial: Extracting Unstructured Text Using Large Language Models
 
-This repository contains code to accompany the paper **"Tutorial: Extracting Unstructured Text Using Large Language Models"** by Simon Spavound, Oliver Schaer, and Panos Markou.
+This repository contains code to accompany the paper Spavound, S., and Schaer, O., and Markou, P.,, Tutorial: Extracting Unstructured Text Using Large Language Models (April 10, 2026). Available at SSRN: https://ssrn.com/abstract=6556303.
 
 ## Prerequisites
 
@@ -38,15 +38,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Jupyter Kernel Registration
-To use this environment within the Jupyter Notebook interface (or VS Code), you must register the environment as a kernel.
-
-```bash
-python -m ipykernel install --user --name=llm_tutorial --display-name "Python (LLM Tutorial)"
-```
-
 ## Usage
 
 1. Open the `tutorial_example.ipynb` tutorial files in your preferred editor (JupyterLab, Jupyter Notebook, or VS Code).
-2. Select the **"Python (LLM Tutorial)"** kernel from the kernel picker or dropdown menu.
+2. Select your Python kernel.
 3. Execute the cells sequentially.
