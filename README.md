@@ -1,6 +1,6 @@
 # Tutorial: Extracting Unstructured Text Using Large Language Models
 
-This repository contains code to accompany the paper Spavound, S., and Schaer, O., and Markou, P.,, Tutorial: Extracting Unstructured Text Using Large Language Models (April 10, 2026). Available at SSRN: https://ssrn.com/abstract=6556303.
+This repository contains code to accompany the forthcoming article in [INFORMS Journal on Applied Analytics](https://ssrn.com/abstract=6556303)
 
 ## Prerequisites
 
@@ -43,3 +43,17 @@ pip install -r requirements.txt
 1. Open the `tutorial_example.ipynb` tutorial files in your preferred editor (JupyterLab, Jupyter Notebook, or VS Code).
 2. Select your Python kernel.
 3. Execute the cells sequentially.
+
+## Citation
+## Citation
+
+If you use this tutorial in your research, please cite:
+
+```bibtex
+@article{spavond2026LLMextraction,
+  author  = {Spavound, Simon and Schaer, Oliver and Markou, Panos},
+  title   = {Tutorial: Extracting Unstructured Text Using Large Language Models},
+  journal = {INFORMS Journal on Applied Analytics},
+  year    = {2026},
+  note    = {, forthcoming]
+}
