@@ -45,7 +45,6 @@ pip install -r requirements.txt
 3. Execute the cells sequentially.
 
 ## Citation
-## Citation
 
 If you use this tutorial in your research, please cite:
 
